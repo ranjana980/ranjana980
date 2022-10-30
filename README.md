@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ranjana Chaudhary
-- 👀 I’m interested in frontend Devloper
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on reactjs
+- 👀 I’m MERN Stack 
 - 📫 This is my email id ranjana20@Navgurukul.org
 
 <!---
